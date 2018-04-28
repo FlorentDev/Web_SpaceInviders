@@ -1,0 +1,24 @@
+body{
+	display: block;
+	text-align: center;
+	height: 100%;
+	width: 100%;
+}
+
+#explosion{
+	position: fixed;
+	top: 5px;
+}
+#alien{
+	position: fixed;
+	top: 5px;
+	width: 80px;
+}
+#missile{
+	position: fixed;
+	width: 60px;
+}
+#vaisseau{
+	position: fixed;
+	bottom: 5px;
+}
